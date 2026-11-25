@@ -1,4 +1,4 @@
-# spacesheep-dev
+# Spacesheep
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,174 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-spacesheep-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://spacesheep.dev/
+Spacesheep is a Y‑Combinator‑backed startup offering AI‑enhanced collaborative document spaces. Users can create “spaces” where teams and AI agents interact, comment, and build knowledge. The platform provides visual explanations, AI‑driven content generation, and integrations for sharing artifacts across tools. It aims to modernize how teams produce and consume documentation, leveraging large language models to boost productivity and insight.
+
+**Areas:** Documents · AI · Dashboard · CRM · Search
+
+## Spacesheep on APIs.io
+
+Everything profiled for Spacesheep is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spacesheep-dev/](https://apis.io/providers/spacesheep-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (55)
+
+- [Spacesheep API](https://apis.io/apis/spacesheep-dev/spacesheep-api/) — Spacesheep's public API as documented in OpenAPI spec.
+- [Spacesheep Account Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-accountservice-api/) — The AccountService API from Spacesheep — 1 operation(s) for accountservice.
+- [Spacesheep Agent Model Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-agentmodelservice-api/) — The AgentModelService API from Spacesheep — 1 operation(s) for agentmodelservice.
+- [Spacesheep Agent Run Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-agentrunservice-api/) — The AgentRunService API from Spacesheep — 2 operation(s) for agentrunservice.
+- [Spacesheep Agent Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-agentservice-api/) — Only with a key you made: your agent acts with every integration you connected, more than a connector was granted.
+- [Spacesheep Backup Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-backupservice-api/) — The BackupService API from Spacesheep — 2 operation(s) for backupservice.
+- [Spacesheep Box Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-boxservice-api/) — The BoxService API from Spacesheep — 4 operation(s) for boxservice.
+- [Spacesheep Capture Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-captureservice-api/) — The CaptureService API from Spacesheep — 3 operation(s) for captureservice.
+- [Spacesheep Code Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-codeservice-api/) — The CodeService API from Spacesheep — 1 operation(s) for codeservice.
+- [Spacesheep Comment Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-commentservice-api/) — The CommentService API from Spacesheep — 2 operation(s) for commentservice.
+- [Spacesheep Config Group Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-configgroupservice-api/) — The ConfigGroupService API from Spacesheep — 3 operation(s) for configgroupservice.
+- [Spacesheep Custom Domain Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-customdomainservice-api/) — The CustomDomainService API from Spacesheep — 2 operation(s) for customdomainservice.
+- [Spacesheep Design System Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-designsystemservice-api/) — The DesignSystemService API from Spacesheep — 3 operation(s) for designsystemservice.
+- [Spacesheep Discussion Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-discussionservice-api/) — Only the space's editors (and their agents) can read, post or resolve.
+- [Spacesheep Feedback Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-feedbackservice-api/) — The FeedbackService API from Spacesheep — 1 operation(s) for feedbackservice.
+- [Spacesheep File Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-fileservice-api/) — The FileService API from Spacesheep — 2 operation(s) for fileservice.
+- [Spacesheep Group Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-groupservice-api/) — The GroupService API from Spacesheep — 2 operation(s) for groupservice.
+- [Spacesheep Highlight Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-highlightservice-api/) — The HighlightService API from Spacesheep — 2 operation(s) for highlightservice.
+- [Spacesheep History Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-historyservice-api/) — The HistoryService API from Spacesheep — 1 operation(s) for historyservice.
+- [Spacesheep Integration Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-integrationservice-api/) — The IntegrationService API from Spacesheep — 1 operation(s) for integrationservice.
+- [Spacesheep Integration Settings Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-integrationsettingsservice-api/) — Your integrations, as Settings shows them. (Reading through one is IntegrationService's.)
+- [Spacesheep Live Event Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-liveeventservice-api/) — The LiveEventService API from Spacesheep — 1 operation(s) for liveeventservice.
+- [Spacesheep Live Link Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-livelinkservice-api/) — The LiveLinkService API from Spacesheep — 1 operation(s) for livelinkservice.
+- [Spacesheep Live Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-liveservice-api/) — The LiveService API from Spacesheep — 1 operation(s) for liveservice.
+- [Spacesheep MCP Server Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-mcpserverservice-api/) — The McpServerService API from Spacesheep — 2 operation(s) for mcpserverservice.
+- [Spacesheep Memory Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-memoryservice-api/) — The MemoryService API from Spacesheep — 3 operation(s) for memoryservice.
+- [Spacesheep My Skill Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-myskillservice-api/) — Making a skill and installing one both change what your agent does, so they are the account's. Spacesheep's own runs (an agent key: a group, contained or…
+- [Spacesheep Photo Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-photoservice-api/) — The PhotoService API from Spacesheep — 2 operation(s) for photoservice.
+- [Spacesheep Publish Attempt Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-publishattemptservice-api/) — The PublishAttemptService API from Spacesheep — 1 operation(s) for publishattemptservice.
+- [Spacesheep Publish Source Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-publishsourceservice-api/) — The PublishSourceService API from Spacesheep — 1 operation(s) for publishsourceservice.
+- [Spacesheep Reaction Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-reactionservice-api/) — The ReactionService API from Spacesheep — 1 operation(s) for reactionservice.
+- [Spacesheep Record Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-recordservice-api/) — The RecordService API from Spacesheep — 5 operation(s) for recordservice.
+- [Spacesheep Referral Link Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-referrallinkservice-api/) — The ReferralLinkService API from Spacesheep — 2 operation(s) for referrallinkservice.
+- [Spacesheep Room Key Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-roomkeyservice-api/) — The RoomKeyService API from Spacesheep — 1 operation(s) for roomkeyservice.
+- [Spacesheep Secret Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-secretservice-api/) — The SecretService API from Spacesheep — 2 operation(s) for secretservice.
+- [Spacesheep Session Detail Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-sessiondetailservice-api/) — The SessionDetailService API from Spacesheep — 3 operation(s) for sessiondetailservice.
+- [Spacesheep Session File Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-sessionfileservice-api/) — The SessionFileService API from Spacesheep — 1 operation(s) for sessionfileservice.
+- [Spacesheep Session Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-sessionservice-api/) — The SessionService API from Spacesheep — 1 operation(s) for sessionservice.
+- [Spacesheep Signature Request Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-signaturerequestservice-api/) — Only a space's owner may ask for signatures or withdraw them; anyone who can open it may read where they stand.
+- [Spacesheep Skill Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-skillservice-api/) — The SkillService API from Spacesheep — 3 operation(s) for skillservice.
+- [Spacesheep Space Analytics Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-spaceanalyticsservice-api/) — The SpaceAnalyticsService API from Spacesheep — 1 operation(s) for spaceanalyticsservice.
+- [Spacesheep Space Copy Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-spacecopyservice-api/) — The SpaceCopyService API from Spacesheep — 2 operation(s) for spacecopyservice.
+- [Spacesheep Space Render Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-spacerenderservice-api/) — The SpaceRenderService API from Spacesheep — 3 operation(s) for spacerenderservice.
+- [Spacesheep Space Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-spaceservice-api/) — The SpaceService API from Spacesheep — 4 operation(s) for spaceservice.
+- [Spacesheep Space Transfer Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-spacetransferservice-api/) — Transfers move ownership, so they sit with the account's own tools: kept away from any run whose words someone else wrote, and a box only reads them.
+- [Spacesheep Stack Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-stackservice-api/) — Every change is the person's call: a client asks first. Merge and delete are the destructive ones.
+- [Spacesheep Stream Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-streamservice-api/) — The StreamService API from Spacesheep — 2 operation(s) for streamservice.
+- [Spacesheep Talk Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-talkservice-api/) — The TalkService API from Spacesheep — 3 operation(s) for talkservice.
+- [Spacesheep Team Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-teamservice-api/) — The TeamService API from Spacesheep — 4 operation(s) for teamservice.
+- [Spacesheep Upload Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-uploadservice-api/) — The UploadService API from Spacesheep — 1 operation(s) for uploadservice.
+- [Spacesheep Version Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-versionservice-api/) — The VersionService API from Spacesheep — 2 operation(s) for versionservice.
+- [Spacesheep Watch Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-watchservice-api/) — The WatchService API from Spacesheep — 3 operation(s) for watchservice.
+- [Spacesheep Api Key Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-api-key-service-api/) — The Api Key Service API from Spacesheep — 2 operation(s) for api key service.
+- [Spacesheep Channel Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-channel-service-api/) — The Channel Service API from Spacesheep — 3 operation(s) for channel service.
+- [Spacesheep Notification Service API](https://apis.io/apis/spacesheep-dev/spacesheep-dev-notification-service-api/) — The Notification Service API from Spacesheep — 1 operation(s) for notification service.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Spacesheep Agentic Access](https://apis.io/agentic-access/spacesheep-dev/spacesheep-dev-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Spacesheep Dev Context](https://apis.io/jsonld/spacesheep-dev/spacesheep-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Spacesheep API Rules](https://apis.io/rules/spacesheep-dev/spacesheep-dev-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Spacesheep Authentication](https://apis.io/security/spacesheep-dev/spacesheep-dev-authentication/)
+- [Spacesheep Domain Security](https://apis.io/security/spacesheep-dev/spacesheep-dev-domain-security/)
+- [Spacesheep Vulnerability Disclosure](https://apis.io/security/spacesheep-dev/spacesheep-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Spacesheep Plans Pricing](https://apis.io/plans/spacesheep-dev/spacesheep-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spacesheep.dev/)
+- [Documentation](https://spacesheep.dev/docs)
+- [API reference](https://spacesheep.dev/llms.txt)
+- [Pricing](https://spacesheep.dev/plans)
+- [Support](https://spacesheep.dev/support)
+- [Security](https://spacesheep.dev/security)
+- [Terms of service](https://spacesheep.dev/terms)
+- [Privacy policy](https://spacesheep.dev/privacy)
+- [GitHub](https://github.com/spacesheep-dev)
+
+## API Evangelist rating
+
+**Kin Score 56.2** — strong · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 48.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 42.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spacesheep-dev/](https://apis.io/providers/spacesheep-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Spacesheep: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spacesheep-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
